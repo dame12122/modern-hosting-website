@@ -168,12 +168,6 @@ Use the built-in animation classes:
 - Check form submissions
 - Review analytics data
 
-## 📞 Support
-
-For questions about this website redesign:
-- **Discord**: https://discord.gg/5FUN22xqtW
-- **Email**: support@vistacloud.org
-
 ## 🎨 Design Inspiration
 
 This redesign follows modern web design trends:
@@ -183,6 +177,8 @@ This redesign follows modern web design trends:
 - **Accessibility** focus
 - **Mobile-first** approach
 
+- this was a project me and my friend had and i rewrote it all cleaned up and now released as this, as far as i know style is a lil off but its usuable definitely a good starter 
+
 ---
 
-**Built with ❤️ for the VistaCloud gaming community**
+**Built with ❤️ by Dame for the VistaCloud gaming community**
